@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Terminator</string>
+    <string name="cris">Cris Evans</string>
+    <string name="tx1">Chris Evans, ¿Negocia Seguir Siendo Capitán América en Público?</string>
+    <string name="robert">Robert D. Junior</string>
+    <string name="tx2">Robert Downey Jr. será el nuevo Doctor Dolittl</string>
+    <string name="sebas">Sebastian Stan</string>
+    <string name="tx3">Sebastian Stan podría ser el nuevo Capitán América del Universo Cinemático de Marvel</string>
+    <string name="scarlet">Scarlet Johanson</string>
+    <string name="tx4">Scarlett Johansson pide el divorcio y lucha por la custodia de su hija</string>
+</resources>
